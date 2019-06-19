@@ -1,0 +1,3 @@
+rootProject.name = 'honeybuy_4888'
+
+include ':app'
